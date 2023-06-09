@@ -470,3 +470,18 @@ java/.mvn/wrapper/maven-wrapper.jar
 
 # Java settings
 conf.properties
+samples/apps/copilot-chat-app/webapi/appsettings.production.json
+samples/apps/copilot-chat-app/webapi/appsettings.production.json
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.csproj
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.sln
+samples/apps/copilot-chat-app/webapp/.vscode/settings.json
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.sln
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.csproj
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.sln
+samples/apps/copilot-chat-app/webapi/.vscode/launch.json
+samples/apps/copilot-chat-app/webapi/.vscode/tasks.json
+samples/apps/copilot-chat-app/webapi/appsettings.production.json
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.csproj
+samples/apps/copilot-chat-app/webapp/.vscode/settings.json
+samples/apps/copilot-chat-app/webapp/.vscode/settings.json
+samples/apps/copilot-chat-app/webapi/CopilotChatWebApi.sln
