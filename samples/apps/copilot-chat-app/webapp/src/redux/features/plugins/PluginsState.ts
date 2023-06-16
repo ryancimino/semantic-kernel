@@ -80,7 +80,7 @@ export const initialState: PluginsState = {
     Jira: {
         name: Plugins.Jira,
         publisher: 'Atlassian',
-        description: 'Authorize Copilot Chat to link with Jira and retrieve specific issues by providing the issue key.',
+        description: 'Authorize to link with Jira and retrieve specific issues by providing the issue key.',
         enabled: false,
         authRequirements: {
             email: true,
@@ -101,7 +101,7 @@ export const initialState: PluginsState = {
         name: Plugins.GitHub,
         publisher: 'Microsoft',
         description:
-            'Integrate Github with Copilot Chat, i.e., allow Copilot ChatBot to list active Pull Requests for you.',
+            'Integrate Github, i.e., allow ChatBot to list active Pull Requests for you.',
         enabled: false,
         authRequirements: {
             personalAccessToken: true,

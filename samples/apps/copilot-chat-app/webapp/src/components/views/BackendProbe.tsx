@@ -33,13 +33,7 @@ const BackendProbe: FC<IData> = ({ uri, onBackendFound }) => {
             <Title3>Looking for your backend</Title3>
             <Spinner />
             <Body1>
-                This sample expects to find a Semantic Kernel service from <strong>samples/apps/copilot-chat-app/webapi</strong>{' '}
-                running at <strong>{uri}</strong>
-            </Body1>
-            <Body1>
-                Run your Semantic Kernel service locally using{' '}
-                Visual Studio, Visual Studio Code or by typing the following command:{' '}
-                <strong>dotnet run</strong>
+                Can't find API at <strong>{uri}</strong>
             </Body1>
         </div>
     );
